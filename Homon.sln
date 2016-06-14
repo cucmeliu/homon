@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homon", "Homon\Homon.csproj", "{FAED221E-B21B-4D06-A758-E533559EEA95}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{FAED221E-B21B-4D06-A758-E533559EEA95}.Debug.ActiveCfg = Debug|.NET
+		{FAED221E-B21B-4D06-A758-E533559EEA95}.Debug.Build.0 = Debug|.NET
+		{FAED221E-B21B-4D06-A758-E533559EEA95}.Release.ActiveCfg = Release|.NET
+		{FAED221E-B21B-4D06-A758-E533559EEA95}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
