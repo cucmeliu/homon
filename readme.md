@@ -11,5 +11,9 @@
 
 (可能因人而异,周期的变化有不同的节律,生命周期是存在的，不过用简单的数字是无法全部论述证明的，应该按照八字理论进行综合的分析和研究，而且不仅仅是命运周期的影响，根据八字的五行生克气场对应能够更加深刻地准确分析，而23－28－33的周期论还是比较初步的)
 
+![alt text](https://github.com/cucmeliu/homon/blob/master/Homon/bin/Debug/homon.png "Title")
+
+
+
 leo@xjtu
 2004年6月
